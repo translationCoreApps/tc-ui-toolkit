@@ -74,7 +74,7 @@
     "deep-equal": "^1.1.1",
     "jest-environment-jsdom": "^24.9.0",
     "lodash": "^4.17.15",
-    "marked": "^0.6.3",
+    "marked": "^0.7.0",
     "memoize-one": "^5.1.1",
     "prop-types": "^15.7.2",
     "react-bootstrap": "^0.32.1",
